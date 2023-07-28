@@ -1,5 +1,7 @@
 # aut_course_ai
 
+Artificial intelligence course projects
+
 Project 1:
 Project describes a game that involves arranging cards with different colors and numbers in a specific order. The goal of the game is to have all cards in each section of the game with the same color and in descending order from left to right. The problem can be solved using different AI algorithms such as Breadth-First Search (BFS), Iterative Deepening Search (IDS), and A* Search with an admissible heuristic.
 
